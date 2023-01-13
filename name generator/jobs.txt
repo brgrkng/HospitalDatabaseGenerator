@@ -1,0 +1,24 @@
+Cashier
+Food Preparation Worker
+Janitor
+Bartender
+Server
+Retail Sales Associate
+Stocking Associate
+Laborer
+Customer Service Representative
+Office Clerk
+Administrative Assistant
+Line Supervisor
+Medical Assistant
+Construction Worker
+Bookkeeper
+Mechanic
+Carpenter
+Electrician
+Marketing Specialist
+Police Officer
+Truck Driver
+Operations Manager
+Lawyer
+Software Developer
